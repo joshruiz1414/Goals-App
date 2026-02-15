@@ -1,13 +1,13 @@
 //
-//  MilestonesUITestsLaunchTests.swift
-//  MilestonesUITests
+//  GoalsAppUITestsLaunchTests.swift
+//  GoalsAppUITests
 //
-//  Created by Joshua Ruiz on 2026-02-13.
+//  Created by Joshua Ruiz on 2026-02-14.
 //
 
 import XCTest
 
-final class MilestonesUITestsLaunchTests: XCTestCase {
+final class GoalsAppUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

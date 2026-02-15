@@ -1,13 +1,13 @@
 //
-//  MilestonesUITests.swift
-//  MilestonesUITests
+//  GoalsAppUITests.swift
+//  GoalsAppUITests
 //
-//  Created by Joshua Ruiz on 2026-02-13.
+//  Created by Joshua Ruiz on 2026-02-14.
 //
 
 import XCTest
 
-final class MilestonesUITests: XCTestCase {
+final class GoalsAppUITests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.

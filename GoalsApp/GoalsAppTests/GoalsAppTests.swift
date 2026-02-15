@@ -1,14 +1,14 @@
 //
-//  MilestonesTests.swift
-//  MilestonesTests
+//  GoalsAppTests.swift
+//  GoalsAppTests
 //
-//  Created by Joshua Ruiz on 2026-02-13.
+//  Created by Joshua Ruiz on 2026-02-14.
 //
 
 import Testing
-@testable import Milestones
+@testable import GoalsApp
 
-struct MilestonesTests {
+struct GoalsAppTests {
 
     @Test func example() async throws {
         // Write your test here and use APIs like `#expect(...)` to check expected conditions.

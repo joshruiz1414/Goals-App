@@ -1,8 +1,8 @@
 //
 //  ContentView.swift
-//  Milestones
+//  GoalsApp
 //
-//  Created by Joshua Ruiz on 2026-02-13.
+//  Created by Joshua Ruiz on 2026-02-14.
 //
 
 import SwiftUI

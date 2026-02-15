@@ -1,14 +1,14 @@
 //
-//  MilestonesApp.swift
-//  Milestones
+//  GoalsAppApp.swift
+//  GoalsApp
 //
-//  Created by Joshua Ruiz on 2026-02-13.
+//  Created by Joshua Ruiz on 2026-02-14.
 //
 
 import SwiftUI
 
 @main
-struct MilestonesApp: App {
+struct GoalsAppApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
